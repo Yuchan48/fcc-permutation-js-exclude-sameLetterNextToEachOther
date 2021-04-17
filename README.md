@@ -1,6 +1,4 @@
-# permutation-javascript-exclude-same-letter-next-to-each-other
-
-### Heap Algorithm Permutation Excluding same letter next to each other
+##  Heap Algorithm Permutation Excluding same letter next to each other
 
 ___
 ## FreeCodeCamp Project
